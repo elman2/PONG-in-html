@@ -5,9 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Pequeño projecto">
-    <title>MAICHOP</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="shortcut icon" href="imagenes/icons8-compartir-48.png">
+    <title>PONG</title>
     <style>
         body, html{
             height: 100%;
@@ -49,10 +47,6 @@
     </style>
 </head>
 <body>
-    <hr color="light blue">
-    
-     <h1 align="center"></br><i><b><big><font color="white">PONG</font></big></b></i></h1>
-     <hr color="light blue">
     <div id="ball"></div>
     <div id="bar1" class="bar"></div>
     <div id="bar2" class="bar"></div>
